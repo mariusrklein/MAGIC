@@ -11,7 +11,7 @@ install_requires = [
     "future",
     "tasklogger>=1.0.0",
     "graphtools>=1.4.0",
-    "pandas>=0.25",
+    "pandas",
     "scprep>=1.0",
 ]
 
